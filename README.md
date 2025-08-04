@@ -1,4 +1,4 @@
-# Game Sales Dashboard
+# Game Sales Report
 
 An interactive Power BI report built on the Game Sales dataset using DAX.
 
